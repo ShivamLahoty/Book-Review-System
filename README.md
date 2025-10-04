@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📚 Book Review Platform - Frontend
 A responsive book review platform built with React, Vite, and Tailwind CSS.
 
@@ -38,3 +39,6 @@ npm run dev
 
 # Build for production
 npm run build
+=======
+# Book-Review-System
+>>>>>>> 6b2654a7d8f80cbe029eaf511fc10c1fa45a81dd
